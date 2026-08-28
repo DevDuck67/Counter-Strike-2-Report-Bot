@@ -1,11 +1,11 @@
 # 🎯 CS2 Report Bot — Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool
 
 <p align="left">
-  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white" alt="CS2"/></a>
-  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat" alt="VACnet"/></a>
+  <img src="https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white" alt="CS2"/>
+  <img src="https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat" alt="VACnet"/>
   <img src="https://img.shields.io/badge/VirusTotal-Safe%20%5B0%2F100%5D-3949ab?style=flat&logo=virustotal&logoColor=white" alt="VirusTotal Safe"/>
-  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Access-Free%20%7C%20Premium-2ea043?style=flat" alt="License"/></a>
-  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@StrikeReportBot-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <img src="https://img.shields.io/badge/Access-Free%20%7C%20Premium-2ea043?style=flat" alt="License"/>
+  <img src="https://img.shields.io/badge/Telegram-@StrikeReportBot-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
 </p>
 
 > **Automated mass reporting tool to report Counter-Strike 2 (CS2) hackers, spinbots, wallhacks, and aimbot cheaters directly to Valve Game Coordinator & VACnet Overwatch review queues.**
