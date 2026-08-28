@@ -1,4 +1,4 @@
-# Counter-Strike 2 Cheater Mass Report Automation Tool - CS2 Report Bot
+# 🎯 CS2 Report Bot — Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool
 
 [![CS2](https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white)](https://t.me/repbotadmin)
 [![VACnet](https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat)](https://t.me/repbotadmin)
@@ -35,6 +35,29 @@
 | **Tier 2 (Max)** | **MAX Available (Full Pool)** | Full Botnet Node Capacity | **$10 USD** | [Get Key via Telegram](https://t.me/repbotadmin) |
 
 > 🔑 **To acquire or validate license keys:** Contact [@repbotadmin on Telegram](https://t.me/repbotadmin).
+
+---
+
+## 📸 Interface Preview
+
+<div align="center">
+  <img src="assets/app_preview.png" alt="CS2 Report Bot Tactical Interface Preview" width="460"/>
+</div>
+
+---
+
+## 📖 How to Use (Step-by-Step)
+
+1. **Launch the Application**:
+   - Run `python main.py` or double-click `main.pyw`.
+2. **Enter Suspect Target**:
+   - Paste the suspect's **Steam Community Profile URL** (e.g. `https://steamcommunity.com/id/TheSuspect/`) or direct **SteamID64**. The format indicator will show `[✓ Steam Format Valid]` in green.
+3. **Select Violation Categories**:
+   - Check the cheat flags observed during the match (*Aim Hacking*, *Vision Hacking*, *Spinbot*, *Griefing*). The VACnet priority multiplier will update automatically.
+4. **Choose Report Tier & Key (Optional)**:
+   - Select **15 Reports (Free)** or enter your 5-character license key obtained from [@repbotadmin](https://t.me/repbotadmin) and click `[ Validate Key ]` to unlock **50 Reports** or **MAX Capacity**.
+5. **Dispatch Reports**:
+   - Click **`[ LETS FUCKING GO ]`**. Watch the live console stream real-time node authentications, GC handshakes, and confirmed ticket ACKs.
 
 ---
 
