@@ -1,9 +1,11 @@
 # 🎯 CS2 Report Bot — Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool
 
-[![CS2](https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white)](https://t.me/StrikeReportBot)
-[![VACnet](https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat)](https://t.me/StrikeReportBot)
-[![License](https://img.shields.io/badge/Access-Free%20%7C%20Premium-2ea043?style=flat)](https://t.me/StrikeReportBot)
-[![Telegram](https://img.shields.io/badge/Telegram-@repbotadmin-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/StrikeReportBot)
+<p align="left">
+  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white" alt="CS2"/></a>
+  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat" alt="VACnet"/></a>
+  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Access-Free%20%7C%20Premium-2ea043?style=flat" alt="License"/></a>
+  <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@StrikeReportBot-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 > **Automated mass reporting tool to report Counter-Strike 2 (CS2) hackers, spinbots, wallhacks, and aimbot cheaters directly to Valve Game Coordinator & VACnet Overwatch review queues.**
 
@@ -31,10 +33,10 @@
 | Plan Tier | Reports / Target | Node Pool Access | Price | Access Link |
 | :--- | :---: | :---: | :---: | :--- |
 | **Standard Tier** | **15 Reports** | Standard Free Pool | **FREE** | Unlocked by Default |
-| **Tier 1 (Pro)** | **50 Reports** | Dedicated High-Speed Nodes | **$5 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram</a> |
-| **Tier 2 (Max)** | **MAX Available (Full Unlimited)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram</a> |
+| **Tier 1 (Pro)** | **50 Reports** | Dedicated High-Speed Nodes | **$5 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
+| **Tier 2 (Max)** | **MAX Available (Full Pool)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
 
-> 🔑 **To acquire or validate license keys:** Contact [@repbotadmin on Telegram](https://t.me/StrikeReportBot).
+> 🔑 **To acquire or validate license keys:** Contact <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">@StrikeReportBot on Telegram</a>.
 
 ---
 
@@ -55,7 +57,7 @@
 3. **Select Violation Categories**:
    - Check the cheat flags observed during the match (*Aim Hacking*, *Vision Hacking*, *Spinbot*, *Griefing*). The VACnet priority multiplier will update automatically.
 4. **Choose Report Tier & Key (Optional)**:
-   - Select **15 Reports (Free)** or enter your 5-character license key obtained from [@repbotadmin](https://t.me/StrikeReportBot) and click `[ Validate Key ]` to unlock **50 Reports** or **MAX Capacity**.
+   - Select **15 Reports (Free)** or enter your 5-character license key obtained from <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">@StrikeReportBot</a> and click `[ Validate Key ]` to unlock **50 Reports** or **MAX Capacity**.
 5. **Dispatch Reports**:
    - Click **`[ LETS FUCKING GO ]`**. Watch the live console stream real-time node authentications, GC handshakes, and confirmed ticket ACKs.
 
