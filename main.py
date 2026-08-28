@@ -272,7 +272,7 @@ class CS2ReportBotApp(ctk.CTk):
 
         self.engine = VACnetTelemetryEngine()
         self.accounts_count = random.randint(15, 970)
-        self.random_tier_example = "".join(random.choices("ABCDEFGHJKLMNPQRSTUVWXYZ23456789", k=5))
+        self.random_tier_example = "".join(random.choices("ABCDEFGHJKLMNPQRSTUVWXYZ23456789", k=4))
         self.has_reported = False
         self.has_dispatched = False  # Backward compatibility alias
         self.log_history = []
