@@ -34,7 +34,7 @@
 | :--- | :---: | :---: | :---: | :--- |
 | **Standard Tier** | **15 Reports** | Standard Free Pool | **FREE** | Unlocked by Default |
 | **Tier 1 (Pro)** | **50 Reports** | Dedicated High-Speed Nodes | **$5 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
-| **Tier 2 (Max)** | **MAX Available (Full Pool)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
+| **Tier 2 (Max)** | **MAX Available (Unlimited Pool)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
 
 > 🔑 **To acquire or validate license keys:** Contact <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">@StrikeReportBot on Telegram</a>.
 
