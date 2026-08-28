@@ -1,8 +1,9 @@
-# Counter-Strike 2 Cheater Mass Report Automation Tool - CS2 Report Bot 
+# 🎯 CS2 Report Bot — Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool
 
 <p align="left">
   <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white" alt="CS2"/></a>
   <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VACnet-Overwatch%20Dispatch-4f779a?style=flat" alt="VACnet"/></a>
+  <a href="https://www.virustotal.com/gui/url/269503a3512ba63b156aaadb2dd04c82f6d5a216b8cc45fdff77472a33a34b3d?nocache=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Safe%20%5B0%2F100%5D-3949ab?style=flat&logo=virustotal&logoColor=white" alt="VirusTotal Safe"/></a>
   <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Access-Free%20%7C%20Premium-2ea043?style=flat" alt="License"/></a>
   <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@StrikeReportBot-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
@@ -34,7 +35,7 @@
 | :--- | :---: | :---: | :---: | :--- |
 | **Standard Tier** | **15 Reports** | Standard Free Pool | **FREE** | Unlocked by Default |
 | **Tier 1 (Pro)** | **50 Reports** | Dedicated High-Speed Nodes | **$5 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
-| **Tier 2 (Max)** | **MAX Available (Unlimited Pool)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
+| **Tier 2 (Max)** | **MAX Available (Full Pool)** | Full Botnet Node Capacity | **$10 USD** | <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">Get Key via Telegram (@StrikeReportBot)</a> |
 
 > 🔑 **To acquire or validate license keys:** Contact <a href="https://t.me/StrikeReportBot" target="_blank" rel="noopener noreferrer">@StrikeReportBot on Telegram</a>.
 
