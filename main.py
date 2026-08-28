@@ -422,7 +422,7 @@ class CS2ReportBotApp(ctk.CTk):
             text_color=self.col_text_dim
         ).pack(anchor="w", padx=12, pady=(2, 2))
 
-        self.tier_placeholder = f"Ex: {self.random_tier_example}  (Get your key: https://t.me/CS2reportbot)"
+        self.tier_placeholder = f"Ex: {self.random_tier_example}  (Get your key: https://t.me/repbotadmin)"
         self.tier_key_entry = ctk.CTkEntry(
             panel1,
             font=ctk.CTkFont(family="Consolas", size=11),
