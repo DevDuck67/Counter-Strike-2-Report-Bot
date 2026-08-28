@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ Overview & Technical Capabilities
+## ⚡ Overview
 
 **CS2 Report Bot** is a high-throughput community automation interface designed to combat abusive gameplay and cheaters in **Counter-Strike 2**. The client utilizes internal Steam Game Coordinator APIs, distributed proxy node routing, and protobuf incident payload dispatch to accelerate VACnet deep learning inspection and lower suspect Trust Factor ratings.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 💳 Usage Tiers & Telegram Licensing
+## 💳 Free Usage & Premium TIERs Licensing
 
 | Plan Tier | Reports / Target | Node Pool Access | Price | Access Link |
 | :--- | :---: | :---: | :---: | :--- |
