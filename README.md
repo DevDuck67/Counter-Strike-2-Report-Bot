@@ -1,4 +1,4 @@
-# 🎯 CS2 Report Bot — Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool
+# Counter-Strike 2 Cheater & Hacker Mass Report Automation Tool - CS2 Report Bot
 
 <p align="left">
   <img src="https://img.shields.io/badge/Counter--Strike%202-Report%20Bot-de9b35?style=flat&logo=counter-strike&logoColor=white" alt="CS2"/>
