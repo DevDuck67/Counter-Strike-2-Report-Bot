@@ -28,7 +28,7 @@
 
 ---
 
-## 💳 Free Usage & Premium TIERs Licensing
+## Free Usage & Premium TIERs Licensing
 
 | Plan Tier | Reports / Target | Node Pool Access | Price | Access Link |
 | :--- | :---: | :---: | :---: | :--- |
@@ -40,7 +40,7 @@
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 <div align="center">
   <img src="assets/app_preview.png" alt="CS2 Report Bot Tactical Interface Preview" width="460"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 📖 How to Use (Step-by-Step)
+## How to Use (Step-by-Step)
 
 1. **Launch the Application**:
    - Run `python main.py` or double-click `main.pyw`.
